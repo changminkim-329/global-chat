@@ -123,26 +123,21 @@
     <tr>
         <th>역할</th>
         <td width="150" align="center">
+            Frontend<br>
+            Backend<br>
+            Devops<br>
+        </td>
+        <td width="150" align="center">
             Team Leader<br>
-            frontend<br>
         </td>
         <td width="150" align="center">
-            frontend<br>
+            Backend<br>
         </td>
         <td width="150" align="center">
-            backend<br>
-            devops<br>
+            Backend<br>
         </td>
         <td width="150" align="center">
-            backend<br>
-        </td>
-        <td width="150" align="center">
-            backend<br>
-        </td>
-        <td width="150" align="center">
-            AI<br>
-            frontend<br>
-            backend<br>
+            Backend<br>
         </td>
     </tr>
     <tr>
