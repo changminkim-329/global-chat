@@ -102,13 +102,13 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/gmlrude">
-                <img src="https://avatars.githubusercontent.com/u/101381901?v=4" width="60" height="60">
+            <a href="https://github.com/park-jaeeun">
+                <img src="https://avatars.githubusercontent.com/u/58907538?s=120&v=4" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/Haaein">
-                <img src="https://avatars.githubusercontent.com/u/103196409?v=4" width="60" height="60">
+            <a href="https://github.com/yejincode">
+                <img src="https://avatars.githubusercontent.com/u/69861207?s=120&v=4" width="60" height="60">
             </a>
         </td>
     </tr>
