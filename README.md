@@ -86,9 +86,9 @@
     <tbody>
     <tr>
         <th>사진</th>
-         <td width="100" align="center">
-            <a href="https://github.com/KoneJ">
-                <img src="https://avatars.githubusercontent.com/u/86594108?v=4" width="60" height="60">
+        <td width="100" align="center">
+            <a href="https://github.com/changminkim-329">
+                <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
@@ -115,6 +115,7 @@
             <a href="https://github.com/changminkim-329">
                 <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
             </a>
+        </td>
     </tr>
     <tr>
         <th>이름</th>
