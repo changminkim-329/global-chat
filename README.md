@@ -80,7 +80,7 @@
 <hr>
     
 ## 7. Team Member
-<table style="text-align: center;>
+<table style="text-align: center;">
     <thead>
     </thead>
     <tbody>
