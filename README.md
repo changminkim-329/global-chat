@@ -6,19 +6,19 @@
 ![스크린샷 2022-12-22 오후 1 22 52](https://user-images.githubusercontent.com/59727077/209297223-046b14d0-b939-4646-947e-891b11237fab.png)
 
 ![스크린샷 2022-12-22 오후 1 23 17](https://user-images.githubusercontent.com/59727077/209297273-89de3a59-53aa-476c-a8d1-9130d91e6147.png)
-
+https://user-images.githubusercontent.com/59727077/209297273-89de3a59-53aa-476c-a8d1-9130d91e6147.png
 ## 6. Features
 <table  style="text-align: center; width=950px">
     <tbody>
         <tr>
-          <th style="text-align: center;">메인 화면</th>
-          <th style="text-align: center;">로그인</th>
+          <th style="text-align: center;">로그인 화면</th>
+          <th style="text-align: center;">회원가입 화면</th>
         </tr>
       </tbody>
       <tbody>
         <tr>
-          <th><img src="https://user-images.githubusercontent.com/70627982/193320309-930c708a-e170-44dd-b6aa-fb3ed0f13316.gif"  width="350px" height="350px"/></th>
-          <th><img src="https://user-images.githubusercontent.com/70627982/193300976-777f7438-ba12-409f-8629-e552ed661e6e.png"  width="350px" height="350px"/></th>
+          <th><img src="https://user-images.githubusercontent.com/59727077/209297223-046b14d0-b939-4646-947e-891b11237fab.png"  width="350px" height="350px"/></th>
+          <th><img src="https://user-images.githubusercontent.com/59727077/209297273-89de3a59-53aa-476c-a8d1-9130d91e6147.png"  width="350px" height="350px"/></th>
         </tr>
       </tbody>
       <tbody>
