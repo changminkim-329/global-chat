@@ -37,6 +37,9 @@
 </div>
 <hr>
 
+## DB ERD
+![global-cat](https://user-images.githubusercontent.com/59727077/209305803-41ebbe18-e5eb-488c-9466-af678507f729.png)
+https://www.erdcloud.com/d/4xawuNZA6AkpBtnsA
 
 ## 6. Features
 <table  style="text-align: center">
