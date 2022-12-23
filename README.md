@@ -111,20 +111,14 @@
                 <img src="https://avatars.githubusercontent.com/u/103196409?v=4" width="60" height="60">
             </a>
         </td>
-        <td width="100" align="center">
-            <a href="https://github.com/changminkim-329">
-                <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
-            </a>
-        </td>
     </tr>
     <tr>
         <th>이름</th>
-        <td width="100" align="center"></td>
-        <td width="100" align="center">김보겸</td>
-        <td width="100" align="center">배준일</td>
-        <td width="100" align="center">박희경</td>
-        <td width="100" align="center">라예진</td>
         <td width="100" align="center">김창민</td>
+        <td width="100" align="center">김보겸</td>
+        <td width="100" align="center">우아라</td>
+        <td width="100" align="center">박재은</td>
+        <td width="100" align="center">송예진</td>
     </tr>
     <tr>
         <th>역할</th>
