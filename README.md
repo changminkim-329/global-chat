@@ -97,8 +97,8 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/bjo6300">
-                <img src="https://avatars.githubusercontent.com/u/70627982?v=4" width="60" height="60">
+            <a href="https://github.com/woo-ara">
+                <img src="https://avatars.githubusercontent.com/u/69287689?s=120&v=4" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
