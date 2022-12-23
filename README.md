@@ -149,11 +149,6 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/changminkim-329">
-                <img src="http://img.shields.io/badge/changminkim-329-green?style=social&logo=github"/>
-            </a>
-        </td>
-        <td width="100" align="center">
             <a href="https://github.com/woo-ara">  
                 <img src="http://img.shields.io/badge/woo-ara-green?style=social&logo=github"/>
             </a>
@@ -166,6 +161,11 @@
         <td width="100" align="center">
             <a href="https://github.com/yejincode">
                 <img src="http://img.shields.io/badge/yejincode-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/changminkim-329">
+                <img src="http://img.shields.io/badge/changminkim-329-green?style=social&logo=github"/>
             </a>
         </td>
     </tr>
