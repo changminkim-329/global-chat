@@ -74,7 +74,7 @@
       </tbody>
       <tbody>
       <tr>
-          <th colspan="2" style="text-align: center;">자동번역 기능이 탐재된 채팅 서비스 화면</th>
+          <th colspan="2" style="text-align: center;"><h1>자동번역 기능이 탐재된 채팅 서비스 화면</h1></th>
         </tr>
       </tbody>
       <tbody>
