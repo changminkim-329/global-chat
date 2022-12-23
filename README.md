@@ -86,11 +86,6 @@
     <tbody>
     <tr>
         <th>사진</th>
-        <td align="center">
-            <a href="https://github.com/changminkim-329">
-                <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
-            </a>
-        </td>
         <td width="100" align="center">
             <a href="https://github.com/seedspirit">
                 <img src="https://avatars.githubusercontent.com/u/109015852?v=4" width="60" height="60">
@@ -111,22 +106,22 @@
                 <img src="https://avatars.githubusercontent.com/u/69861207?s=120&v=4" width="60" height="60">
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/changminkim-329">
+                <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
+            </a>
+        </td>
     </tr>
     <tr>
         <th>이름</th>
-        <td width="100" align="center">김창민</td>
         <td width="100" align="center">김보겸</td>
         <td width="100" align="center">우아라</td>
         <td width="100" align="center">박재은</td>
         <td width="100" align="center">송예진</td>
+        <td width="100" align="center">김창민</td>
     </tr>
     <tr>
         <th>역할</th>
-        <td width="150" align="center">
-            Frontend<br>
-            Backend<br>
-            Devops<br>
-        </td>
         <td width="150" align="center">
             Team Leader<br>
             Planner<br>
@@ -140,32 +135,37 @@
         <td width="150" align="center">
             Backend<br>
         </td>
+        <td width="150" align="center">
+            Frontend<br>
+            Backend<br>
+            Devops<br>
+        </td>
     </tr>
     <tr>
         <th>GitHub</th>
-        <td width="100" align="center">
-            <a href="https://github.com/changminkim-329">
-                <img src="http://img.shields.io/badge/changminkim-329-green?style=social&logo=github"/>
-            </a>
-         </td>
         <td width="100" align="center">
             <a href="https://github.com/seedspirit">
                 <img src="http://img.shields.io/badge/seedspirit-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/bjo6300">  
-                <img src="http://img.shields.io/badge/bjo6300-green?style=social&logo=github"/>
+            <a href="https://github.com/changminkim-329">
+                <img src="http://img.shields.io/badge/changminkim-329-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/woo-ara">
-                <img src="http://img.shields.io/badge/gmlrude-green?style=social&logo=github"/>
+            <a href="https://github.com/woo-ara">  
+                <img src="http://img.shields.io/badge/woo-ara-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/yejin">
-                <img src="http://img.shields.io/badge/Haaein-green?style=social&logo=github"/>
+            <a href="https://github.com/park-jaeeun">
+                <img src="http://img.shields.io/badge/park-jaeeun-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/yejincode">
+                <img src="http://img.shields.io/badge/yejincode-green?style=social&logo=github"/>
             </a>
         </td>
     </tr>
