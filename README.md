@@ -1,5 +1,5 @@
 <h1 align="center">
-    global-chat
+    Global-Chat
 </h1>
 
 
@@ -9,7 +9,7 @@
 <hr>
 
 ## 1. System Architecture
-![image](https://user-images.githubusercontent.com/70627982/193271388-0d63f839-09d1-485c-af35-e7e94f6c19e0.png)
+<img width="1257" alt="%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-12-12%20%EC%98%A4%ED%9B%84%202 10 54" src="https://user-images.githubusercontent.com/59727077/209300273-17bab886-ac66-4e8b-9c11-3d7543b1f931.png">
 
 
 <hr>
