@@ -78,6 +78,113 @@
     </table>
 
 <hr>
+    
+## 7. Team Member
+<table width="950px">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <th>사진</th>
+         <td width="100" align="center">
+            <a href="https://github.com/KoneJ">
+                <img src="https://avatars.githubusercontent.com/u/86594108?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/alswlfl29">
+                <img src="https://avatars.githubusercontent.com/u/79428205?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/bjo6300">
+                <img src="https://avatars.githubusercontent.com/u/70627982?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/gmlrude">
+                <img src="https://avatars.githubusercontent.com/u/101381901?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Haaein">
+                <img src="https://avatars.githubusercontent.com/u/103196409?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/changminkim-329">
+                <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
+            </a>
+    </tr>
+    <tr>
+        <th>이름</th>
+        <td width="100" align="center">고원준</td>
+        <td width="100" align="center">이민지</td>
+        <td width="100" align="center">배준일</td>
+        <td width="100" align="center">박희경</td>
+        <td width="100" align="center">라예진</td>
+        <td width="100" align="center">김창민</td>
+    </tr>
+    <tr>
+        <th>역할</th>
+        <td width="150" align="center">
+            Team Leader<br>
+            frontend<br>
+        </td>
+        <td width="150" align="center">
+            frontend<br>
+        </td>
+        <td width="150" align="center">
+            backend<br>
+            devops<br>
+        </td>
+        <td width="150" align="center">
+            backend<br>
+        </td>
+        <td width="150" align="center">
+            backend<br>
+        </td>
+        <td width="150" align="center">
+            AI<br>
+            frontend<br>
+            backend<br>
+        </td>
+    </tr>
+    <tr>
+        <th>GitHub</th>
+        <td width="100" align="center">
+            <a href="https://github.com/KoneJ">
+                <img src="http://img.shields.io/badge/KoneJ-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/alswlfl29">
+                <img src="http://img.shields.io/badge/alswlfl29-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/bjo6300">  
+                <img src="http://img.shields.io/badge/bjo6300-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/gmlrude">
+                <img src="http://img.shields.io/badge/gmlrude-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Haaein">
+                <img src="http://img.shields.io/badge/Haaein-green?style=social&logo=github"/>
+            </a>
+        </td>
+         <td width="100" align="center">
+            <a href="https://github.com/changminkim-329">
+                <img src="http://img.shields.io/badge/changminkim-329-green?style=social&logo=github"/>
+            </a>
+    </tr>
+    </tbody>
+</table>
+<hr>
 
 ### PPT
 https://www.miricanvas.com/v/11o0401
