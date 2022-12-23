@@ -39,7 +39,7 @@
 
 ## DB ERD
 ![global-cat](https://user-images.githubusercontent.com/59727077/209305803-41ebbe18-e5eb-488c-9466-af678507f729.png)
-<div style="flex: 4 1 180px; padding: 12px 14px 14px; overflow: hidden; text-align: left;"><div style="font-size: 14px; line-height: 20px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-height: 24px; margin-bottom: 2px;">global-cat</div><div style="font-size: 12px; line-height: 16px; color: rgba(55, 53, 47, 0.65); height: 32px; overflow: hidden;">Draw ERD with your team members. All states are shared in real time. And it's FREE.</div><div style="display: flex; margin-top: 6px;"><img src="/image/https%3A%2F%2Fwww.erdcloud.com%2Ffavicon-16x16.png?id=d25e1221-7514-4a22-bc89-eae1c0191364&amp;table=block&amp;spaceId=17b3187d-7506-4f1a-ad11-645333f3356f&amp;userId=d3670da3-6cab-4997-b874-fa259d0c314f&amp;cache=v2" style="width: 16px; height: 16px; min-width: 16px; margin-right: 6px;"><div style="font-size: 12px; line-height: 16px; color: rgb(55, 53, 47); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">https://www.erdcloud.com/d/4xawuNZA6AkpBtnsA</div></div></div>
+- https://www.erdcloud.com/d/4xawuNZA6AkpBtnsA
 
 ## 6. Features
 <table  style="text-align: center">
