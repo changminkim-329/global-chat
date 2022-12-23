@@ -129,6 +129,7 @@
         </td>
         <td width="150" align="center">
             Team Leader<br>
+            Planner<br>
         </td>
         <td width="150" align="center">
             Backend<br>
