@@ -86,7 +86,7 @@
     <tbody>
     <tr>
         <th>사진</th>
-        <td width="100" align="center">
+        <td align="center">
             <a href="https://github.com/changminkim-329">
                 <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
             </a>
