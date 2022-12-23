@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/59727077/209297273-89de3a59-53aa-476c-
       </tbody>
       <tbody>
       <tr>
-          <th style="text-align: center;">자동번역 기능이 탐재된 채팅 서비스 화면</th>
+          <th colspan="2" style="text-align: center;">자동번역 기능이 탐재된 채팅 서비스 화면</th>
         </tr>
       </tbody>
       <tbody>
