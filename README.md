@@ -158,8 +158,8 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/alswlfl29">
-                <img src="http://img.shields.io/badge/alswlfl29-green?style=social&logo=github"/>
+            <a href="https://github.com/seedspirit">
+                <img src="http://img.shields.io/badge/seedspirit-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
@@ -168,12 +168,12 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/gmlrude">
+            <a href="https://github.com/woo-ara">
                 <img src="http://img.shields.io/badge/gmlrude-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/Haaein">
+            <a href="https://github.com/yejin">
                 <img src="http://img.shields.io/badge/Haaein-green?style=social&logo=github"/>
             </a>
         </td>
