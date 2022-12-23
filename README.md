@@ -10,14 +10,16 @@ https://user-images.githubusercontent.com/59727077/209297273-89de3a59-53aa-476c-
 
 ![스크린샷 2022-12-22 오후 1 25 31](https://user-images.githubusercontent.com/59727077/209298157-705e6561-fc6f-46dc-b662-8736378f2b81.png)
 ![스크린샷 2022-12-23 오후 5 11 58](https://user-images.githubusercontent.com/59727077/209298469-a51e2966-0955-4f6c-95a4-fc9fc0b0e41b.png)
+![스크린샷 2022-12-22 오후 1 36 59](https://user-images.githubusercontent.com/59727077/209298783-fb7cd6df-7336-42a1-8d0d-0857734a315b.png)
+![스크린샷 2022-12-22 오후 1 29 12](https://user-images.githubusercontent.com/59727077/209298804-f7e329ae-adff-4849-8429-25e674e9f5c5.png)
 
 
 ## 6. Features
 <table  style="text-align: center; width=950px">
     <tbody>
         <tr>
-          <th style="text-align: center;">로그인 화면</th>
-          <th style="text-align: center;">회원가입 화면</th>
+          <th style="text-align: center;">서비스 랜딩 페이지</th>
+          <th style="text-align: center;">회원가입 페이지</th>
         </tr>
       </tbody>
       <tbody>
@@ -28,14 +30,14 @@ https://user-images.githubusercontent.com/59727077/209297273-89de3a59-53aa-476c-
       </tbody>
       <tbody>
       <tr>
-          <th style="text-align: center;">이미지 업로드 & 크롭</th>
-          <th style="text-align: center;">말풍선 입력</th>
+          <th style="text-align: center;">회원가입 성공 페이지</th>
+          <th style="text-align: center;">친구 추가 기능</th>
         </tr>
       </tbody>
       <tbody>
         <tr>
-          <th><img src="https://user-images.githubusercontent.com/70627982/193301350-85228039-79d2-4823-a711-d5e893e59560.gif"  width="350px" height="350px"/></th>
-          <th><img src="https://user-images.githubusercontent.com/70627982/193301447-420b1fc1-88c0-4774-a940-1f006dfed809.gif"  width="350px" height="350px"/></th>
+          <th><img src="https://user-images.githubusercontent.com/59727077/209298157-705e6561-fc6f-46dc-b662-8736378f2b81.png" height="350px"/></th>
+          <th><img src="https://user-images.githubusercontent.com/59727077/209298157-705e6561-fc6f-46dc-b662-8736378f2b81.png" height="350px"/></th>
         </tr>
       </tbody>
       <tbody>
