@@ -11,7 +11,7 @@
 ## 1. System Architecture
 <img width="1257" alt="%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-12-12%20%EC%98%A4%ED%9B%84%202 10 54" src="https://user-images.githubusercontent.com/59727077/209300273-17bab886-ac66-4e8b-9c11-3d7543b1f931.png">
 <hr>
-<br><br>
+<br>
 
 
 ## 2. Tech Stack
@@ -43,7 +43,7 @@
 ![global-cat](https://user-images.githubusercontent.com/59727077/209305803-41ebbe18-e5eb-488c-9466-af678507f729.png)
 - https://www.erdcloud.com/d/4xawuNZA6AkpBtnsA
 <hr>
-<br><br>
+<br>
     
 
 ## 4. Features
@@ -86,7 +86,7 @@
     </table>
 
 <hr>
-<br><br>
+<br>
     
     
 ## 5. Team Member
