@@ -93,7 +93,7 @@
         </td>
         <td width="100" align="center">
             <a href="https://github.com/seedspirit">
-                <img src="https://avatars.githubusercontent.com/u/79428205?v=4" width="60" height="60">
+                <img src="https://avatars.githubusercontent.com/u/109015852?v=4" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
