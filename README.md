@@ -144,10 +144,10 @@
     <tr>
         <th>GitHub</th>
         <td width="100" align="center">
-            <a href="https://github.com/KoneJ">
-                <img src="http://img.shields.io/badge/KoneJ-green?style=social&logo=github"/>
+            <a href="https://github.com/changminkim-329">
+                <img src="http://img.shields.io/badge/changminkim-329-green?style=social&logo=github"/>
             </a>
-        </td>
+         </td>
         <td width="100" align="center">
             <a href="https://github.com/seedspirit">
                 <img src="http://img.shields.io/badge/seedspirit-green?style=social&logo=github"/>
@@ -168,10 +168,6 @@
                 <img src="http://img.shields.io/badge/Haaein-green?style=social&logo=github"/>
             </a>
         </td>
-         <td width="100" align="center">
-            <a href="https://github.com/changminkim-329">
-                <img src="http://img.shields.io/badge/changminkim-329-green?style=social&logo=github"/>
-            </a>
     </tr>
     </tbody>
 </table>
