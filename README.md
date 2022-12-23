@@ -80,7 +80,7 @@
 <hr>
     
 ## 7. Team Member
-<table width="950px">
+<table>
     <thead>
     </thead>
     <tbody>
