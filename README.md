@@ -39,7 +39,7 @@
 
 
 ## 6. Features
-<table  style="text-align: center; width=950px">
+<table  style="text-align: center">
     <tbody>
         <tr>
           <th style="text-align: center;">서비스 랜딩 페이지</th>
@@ -80,7 +80,7 @@
 <hr>
     
 ## 7. Team Member
-<table>
+<table style="text-align: center;>
     <thead>
     </thead>
     <tbody>
