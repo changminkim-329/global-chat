@@ -118,8 +118,8 @@
     </tr>
     <tr>
         <th>이름</th>
-        <td width="100" align="center">고원준</td>
-        <td width="100" align="center">이민지</td>
+        <td width="100" align="center"></td>
+        <td width="100" align="center">김보겸</td>
         <td width="100" align="center">배준일</td>
         <td width="100" align="center">박희경</td>
         <td width="100" align="center">라예진</td>
