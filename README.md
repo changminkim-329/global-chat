@@ -37,18 +37,17 @@ https://user-images.githubusercontent.com/59727077/209297273-89de3a59-53aa-476c-
       <tbody>
         <tr>
           <th><img src="https://user-images.githubusercontent.com/59727077/209298157-705e6561-fc6f-46dc-b662-8736378f2b81.png" height="350px"/></th>
-          <th><img src="https://user-images.githubusercontent.com/59727077/209298157-705e6561-fc6f-46dc-b662-8736378f2b81.png" height="350px"/></th>
+          <th><img src="https://user-images.githubusercontent.com/59727077/209298804-f7e329ae-adff-4849-8429-25e674e9f5c5.png" height="350px"/></th>
         </tr>
       </tbody>
       <tbody>
       <tr>
-          <th style="text-align: center;">옵션 선택</th>
-          <th style="text-align: center;">결과 이미지</th>
+          <th style="text-align: center;">자동번역 기능이 탐재된 채팅 서비스 화면</th>
         </tr>
       </tbody>
       <tbody>
         <tr>
-          <th><img src="https://user-images.githubusercontent.com/70627982/193304079-7c868028-7279-4c83-b076-46f6c71bb4a6.gif"  width="350px" height="350px"/></th>
+          <th><img src="https://user-images.githubusercontent.com/59727077/209298783-fb7cd6df-7336-42a1-8d0d-0857734a315b.png"  width="350px" height="350px"/></th>
           <th><img src="https://user-images.githubusercontent.com/70627982/193304484-e86654b5-338e-449f-802e-0a4348a6618f.png"  width="350px" height="350px"/></th>
         </tr>
       </tbody>
